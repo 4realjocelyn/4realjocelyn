@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<p align="center">Exploring aerospace, simulations, astronomy, and scientific computing.<br><br>CURRENTLY BUILDING<br>🚀 Novaris Rocket Simulation<br>🧪 Experimental programming <br>      projects<br>📡 Physics-based simulation systems<br><br>INTERESTS<br>* Astrophysics<br>* Aerospace systems<br>* Rocket flight dynamics<br>* Computational simulations<br>* Scientific research<br>* Space technology<br><br>LEARNING<br>* Python<br>* Simulation fundamentals<br>* Physics for aerospace applications<br>* Technical problem solving<br><br>Building slowly. Learning deeply.</p>
+<p align="center">Exploring aerospace, simulations, astronomy and scientific computing.<br><br>CURRENTLY BUILDING<br>🚀 Novaris Rocket Simulation<br>🧪 Experimental programming <br>      projects<br>📡 Physics-based simulation systems<br><br>INTERESTS<br>* Astrophysics<br>* Aerospace systems<br>* Rocket flight dynamics<br>* Computational simulations<br>* Scientific research<br>* Space technology<br><br>LEARNING<br>* Python<br>* Simulation fundamentals<br>* Physics for aerospace applications<br>* Technical problem solving<br><br>Building slowly. Learning deeply.</p>
 
 ###
