@@ -42,7 +42,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/4realjocelyn/4realjocelyn/output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/4realjocelyn/4realjocelyn/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ###
 
