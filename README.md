@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,9 +30,19 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/4realjocelyn/4realjocelyn/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,6 +55,12 @@
 
 <br clear="both">
 
-<p align="center">Exploring aerospace, simulations, astronomy and scientific computing.<br><br>CURRENTLY BUILDING<br>🚀 Novaris Rocket Simulation<br>🧪 Experimental programming <br>      projects<br>📡 Physics-based simulation systems<br><br>INTERESTS<br>* Astrophysics<br>* Aerospace systems<br>* Rocket flight dynamics<br>* Computational simulations<br>* Scientific research<br>* Space technology<br><br>LEARNING<br>* Python<br>* Simulation fundamentals<br>* Physics for aerospace applications<br>* Technical problem solving<br><br>Building slowly. Learning deeply.</p>
+<p align="center">Exploring aerospace, simulations, astronomy, and scientific computing.<br><br>CURRENTLY BUILDING<br>🚀 Novaris Rocket Simulation<br>🧪 Experimental programming <br>      projects<br>📡 Physics-based simulation systems<br><br>INTERESTS<br>* Astrophysics<br>* Aerospace systems<br>* Rocket flight dynamics<br>* Computational simulations<br>* Scientific research<br>* Space technology<br><br>LEARNING<br>* Python<br>* Simulation fundamentals<br>* Physics for aerospace applications<br>* Technical problem solving<br><br>Building slowly. Learning deeply.</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=4realjocelyn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
